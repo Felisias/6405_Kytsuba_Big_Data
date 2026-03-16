@@ -7,3 +7,5 @@
 Получившийся отчёт сохранить в формате Apache Parquet.
 
 Для выполнения задания вы можете использовать любую комбинацию Spark API: **RDD API**, **Dataset API**, **SQL API**. 
+
+![alt text](image.png)
